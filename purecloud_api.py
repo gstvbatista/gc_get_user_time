@@ -3,7 +3,7 @@
 #
 # Official repo https://github.com/gstvbatista/gc_get_user_time
 #
-# Copyright (C) [Year] [Your Name or Your Organization]
+# Copyright (C) 2025
 #
 # This file is part of https://github.com/gstvbatista/gc_get_user_time.
 #
