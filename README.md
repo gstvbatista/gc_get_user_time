@@ -73,7 +73,7 @@
 1. **Run the Application:**
 
     ```bash
-    python desktop_app.py
+    python app.py
     ```
 
 2. **Fill in the Fields:**
