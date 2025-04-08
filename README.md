@@ -77,8 +77,8 @@
     ```
 
 2. **Fill in the Fields:**
-   - **Data Início:** Enter the start date (format **DD/MM/AAAA**).
-   - **Data Final:** Enter the end date (format **DD/MM/AAAA**).  
+   - **Data Início:** Enter the start date (format **DD/MM/YYYY**).
+   - **Data Final:** Enter the end date (format **DD/MM/YYYY**).  
      _Note: The end date must not be earlier than the start date._
    - **Lista de Usuários:** Enter one user login per line. Use the scrollbar if needed.
 
